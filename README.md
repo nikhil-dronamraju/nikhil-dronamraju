@@ -2,13 +2,13 @@
 - 👀 I’m interested in full stack development, mobile app development, and database ORMs.
 - 🌱 I’m currently learning GraphQL, Apollo, and Ruby on Rails.
 - 💞️ I’m looking to collaborate on any Rails or TypeScript/React projects.
-- 📫 How to reach me:
+- 📫 How to reach me/view my work:
 - LinkedIn:
 -     https://www.linkedin.com/in/nikhil-dronamraju-154818144/
 - Portfolio:
--   https://nikhildronamraju-next-portfolio.vercel.app
+-     https://nikhildronamraju-next-portfolio.vercel.app
 - Cell:
--   650-862-8927
+-     650-862-8927
 
 
 <!---
