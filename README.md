@@ -22,7 +22,7 @@ Hey, I'm Nikhil! I'm currently a senior Industrial Engineering major at Texas A&
 :email: Email:
   nikhil.dronamraju.0917@gmail.com
 
-#### Thanks so much for taking a look here! Don't be afraid to reach out if you have any questions.
+Thanks so much for taking a look here! Don't be afraid to reach out if you have any questions.
 
 <!---
 nikhil-dronamraju/nikhil-dronamraju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
