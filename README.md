@@ -1,28 +1,26 @@
-<div align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWg0YjFlanRhOXJtMGJya29oYmJvaWN0ajR0OXh1MjQ0ZnM5aXM1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" /></div>
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWg0YjFlanRhOXJtMGJya29oYmJvaWN0ajR0OXh1MjQ0ZnM5aXM1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" />
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/nikhil-dronamraju-154818144/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:nikhil.dronamraju.0917@gmail.com?subject=FROM_GITHUB_README">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+    <a href="https://nikhildronamraju.dev">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=chrome&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+  </div>
+  <h1>
+    Hi, I'm Nikhil!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
-# Hi, I'm Nikhil! 👋
-
-## About Me:
-I mainly specialize in JavaScript and Ruby on Rails, but I'm also a huge music buff on the side. Check out the rest of the page to find out more about me!
-
-## My Technologies:
-<img src="https://img.shields.io/badge/-gray?style=flat-square&logo=HTML5"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=CSS3"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=JavaScript"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=Next.JS"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=GNOME Terminal"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=C#"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=Python"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=Ruby"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=Create React App"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=Redux"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=GraphQL"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=Node.JS"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=Express"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=MongoDB"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=Firebase"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=Postgresql"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=SQLite"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=RubyOnRails"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=AmazonAWS"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=Prisma"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=Next.JS"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=Prisma"> <img src="https://img.shields.io/badge/-gray?style=flat-square&logo=Docker">
-
-Thanks so much for taking a look here! Don't be afraid to reach out if you have any questions.
-
-<!---
-nikhil-dronamraju/nikhil-dronamraju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a full-stack dev with over 2 years of experience working in React & Rails. Personally speaking, I'm into horror movies, music, lifting weights, and reading. Thanks for checking out my profile!
+<div>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikhil-dronamraju)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-dronamraju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
