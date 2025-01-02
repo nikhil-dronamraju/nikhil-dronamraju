@@ -1,4 +1,4 @@
-<div align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ4dHVrbWQ1ZWYwYzE3dDRqaGNtbDY5N2x1M3U3cjhjMWRqMGF3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FAFo1M7EC4gRZ4HETH/giphy.gif" width="100"/></div>
+<div align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWg0YjFlanRhOXJtMGJya29oYmJvaWN0ajR0OXh1MjQ0ZnM5aXM1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100"/></div>
 
 # Hi, I'm Nikhil!
 
