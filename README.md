@@ -1,5 +1,5 @@
 # Hi, I'm Nikhil! 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/FAFo1M7EC4gRZ4HETH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-hi-henlo-FAFo1M7EC4gRZ4HETH">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/FAFo1M7EC4gRZ4HETH" width="100"></iframe>
 
 ## About Me:
 I mainly specialize in JavaScript and Ruby on Rails, but I'm also a huge music buff on the side. Check out the rest of the page to find out more about me!
