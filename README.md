@@ -1,6 +1,6 @@
 <div align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWg0YjFlanRhOXJtMGJya29oYmJvaWN0ajR0OXh1MjQ0ZnM5aXM1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" /></div>
-
-# Hi, I'm Nikhil!
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn">](https://www.linkedin.com/in/nikhil-dronamraju-154818144/)
+# Hi, I'm Nikhil! 👋
 
 ## About Me:
 I mainly specialize in JavaScript and Ruby on Rails, but I'm also a huge music buff on the side. Check out the rest of the page to find out more about me!
@@ -10,8 +10,6 @@ I mainly specialize in JavaScript and Ruby on Rails, but I'm also a huge music b
 
 
 ## Check Out My Work!
-
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn">](https://www.linkedin.com/in/nikhil-dronamraju-154818144/)
 
 [<img src="https://img.shields.io/badge/-Portfolio-gray.svg?logo=Vercel">](<https://nikhildronamraju-next-portfolio.vercel.app>)
 
