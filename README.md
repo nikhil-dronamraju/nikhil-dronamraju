@@ -1,5 +1,7 @@
 # Hi, I'm Nikhil! 
-<iframe src="https://giphy.com/embed/FAFo1M7EC4gRZ4HETH" width="100"></iframe>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ## About Me:
 I mainly specialize in JavaScript and Ruby on Rails, but I'm also a huge music buff on the side. Check out the rest of the page to find out more about me!
