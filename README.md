@@ -1,7 +1,4 @@
-# Hi, I'm Nikhil! 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ4dHVrbWQ1ZWYwYzE3dDRqaGNtbDY5N2x1M3U3cjhjMWRqMGF3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FAFo1M7EC4gRZ4HETH/giphy.gif" width="100"/>
-</div>
+# Hi, I'm Nikhil! <div align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ4dHVrbWQ1ZWYwYzE3dDRqaGNtbDY5N2x1M3U3cjhjMWRqMGF3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FAFo1M7EC4gRZ4HETH/giphy.gif" width="100"/></div>
 
 ## About Me:
 I mainly specialize in JavaScript and Ruby on Rails, but I'm also a huge music buff on the side. Check out the rest of the page to find out more about me!
